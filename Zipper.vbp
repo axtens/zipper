@@ -1,0 +1,52 @@
+Type=OleDll
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\WINDOWS\system32\stdole2.tlb#OLE Automation
+Reference=*\G{50A7E9B0-70EF-11D1-B75A-00A0C90564FE}#1.0#0#..\..\..\WINDOWS\system32\SHELL32.dll#Microsoft Shell Controls And Automation
+Reference=*\G{420B2830-E718-11CF-893D-00A0C9054228}#1.0#0#..\..\..\WINDOWS\system32\scrrun.dll#Microsoft Scripting Runtime
+Class=ZipperClass; ZipperClass.cls
+Module=ZipperModule; ZipperModule.bas
+Startup="(None)"
+HelpFile=""
+Title="Zipper"
+ExeName32="Zipper.dll"
+Command32=""
+Name="Zipper"
+HelpContextID="0"
+CompatibleMode="1"
+CompatibleEXE32="Zipper.dll"
+MajorVer=1
+MinorVer=0
+RevisionVer=4
+AutoIncrementVer=1
+ServerSupportFiles=0
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=-1
+CodeViewDebugInfo=-1
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=-1
+UnroundedFP=0
+StartMode=1
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+ThreadingModel=1
+DebugStartupOption=0
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[vbAdvance]
+IsConsole=0
+HasStubFile=0
+GenerateMap=0
+TSAware=0
+XPManifest=1
+ResBuildName=.\Project1.dll
+ReplaceIcon=0
+SendCommandArgs=0
+SymbDbgPref=0
+RevisionVersion=0
