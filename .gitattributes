@@ -1,0 +1,4 @@
+*.cls linguist-language=VisualBasic6
+*.vbp linguist-language=VisualBasic6
+*.vbw linguist-language=VisualBasic6
+*.bas linguist-language=VisualBasic6
