@@ -1,4 +1,4 @@
-*.cls linguist-language=VB6
-*.vbp linguist-language=VB6
-*.vbw linguist-language=VB6
-*.bas linguist-language=VB6
+*.cls linguist-language=VisualBasic
+*.vbp linguist-language=VisualBasic
+*.vbw linguist-language=VisualBasic
+*.bas linguist-language=VisualBasic
